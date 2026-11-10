@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.mp3
+*.part
+*.ytdl
+transcript.json
+raw_timestamps.txt
+twitch-vod-ts-lite-runs/
